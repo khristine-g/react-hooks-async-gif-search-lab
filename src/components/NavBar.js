@@ -18,3 +18,4 @@ function NavBar({ color, title }) {
 }
 
 export default NavBar;
+
